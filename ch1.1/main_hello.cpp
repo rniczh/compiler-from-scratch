@@ -86,7 +86,7 @@ int main()
     writer.emitInstruction(sections[0], arm64::bl());
     writer.addRelocation(sections[0], offBl, symPrintf, RelocationType::R_AARCH64_CALL26, 0);
 
-    // Now we contain three relocations in .rela.text section:
+    // Now we have three relocations in .rela.text section:
     // [ 6] .rela.text        RELA             0000000000000000  00000150
     // 0000000000000048  0000000000000018   I       5     1     8
     // Relocation section '.rela.text' at offset 0x150 contains 3 entries:
