@@ -10,6 +10,7 @@ This project follows along with the blog series:
 
 - [BCFS: Building Compiler From Scratch, The Beginning](https://rniczh.github.io/blog/20251206-building-compiler-from-scratch-the-beginning/index.html)
 - [BCFS: Object File Generation and the ELF Format Part I](https://rniczh.github.io/blog/20251214-Object-File-Generation-and-the-ELF-Format-Part-I/index.html)
+- [BCFS: Object File Generation and the ELF Format Part II](https://rniczh.github.io/blog/20260106-Object-File-Generation-and-the-ELF-Format-Part-II/index.html)
 
 ## [1] print hello world
 
