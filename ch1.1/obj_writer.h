@@ -1,5 +1,13 @@
+
+#include <algorithm>
 #include <cassert>
+#include <cstring>
+#include <memory>
 #include <span>
+#include <string>
+#include <string_view>
+#include <unordered_map>
+#include <vector>
 
 #pragma once
 
